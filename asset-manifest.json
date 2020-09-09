@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/torin-stephen/TodoReact/static/css/main.92bd934a.chunk.css",
+    "main.js": "/torin-stephen/TodoReact/static/js/main.6551b7ef.chunk.js",
+    "main.js.map": "/torin-stephen/TodoReact/static/js/main.6551b7ef.chunk.js.map",
+    "runtime-main.js": "/torin-stephen/TodoReact/static/js/runtime-main.042e77a4.js",
+    "runtime-main.js.map": "/torin-stephen/TodoReact/static/js/runtime-main.042e77a4.js.map",
+    "static/js/2.aac1ab34.chunk.js": "/torin-stephen/TodoReact/static/js/2.aac1ab34.chunk.js",
+    "static/js/2.aac1ab34.chunk.js.map": "/torin-stephen/TodoReact/static/js/2.aac1ab34.chunk.js.map",
+    "index.html": "/torin-stephen/TodoReact/index.html",
+    "precache-manifest.73ff05a1465b0d309c5544d24a851799.js": "/torin-stephen/TodoReact/precache-manifest.73ff05a1465b0d309c5544d24a851799.js",
+    "service-worker.js": "/torin-stephen/TodoReact/service-worker.js",
+    "static/css/main.92bd934a.chunk.css.map": "/torin-stephen/TodoReact/static/css/main.92bd934a.chunk.css.map",
+    "static/js/2.aac1ab34.chunk.js.LICENSE.txt": "/torin-stephen/TodoReact/static/js/2.aac1ab34.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.042e77a4.js",
+    "static/js/2.aac1ab34.chunk.js",
+    "static/css/main.92bd934a.chunk.css",
+    "static/js/main.6551b7ef.chunk.js"
+  ]
+}
